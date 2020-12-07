@@ -88,4 +88,12 @@ In this homework assignment, you will need to:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
+Model Comparison
+The RFC model was the more accurate of the two by a small margin.
+
+models_eval
+
+Conclusions
+Evidently, given the relatively high accuracy of the RFC model, I believe it to be a reasonable predictor of exoplanet candidacy. However, a model leveraging deep learning techniques might prove superior.
+
 ##### © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
